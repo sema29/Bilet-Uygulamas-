@@ -1,4 +1,4 @@
-# LOJIPER -  Otobüs Bilet Satış Uygulaması
+# Otobüs Bilet Satış Uygulaması
 
 Bu uygulama, güzergahları ve sefer bilgilerini içeren bir otobüs bilet satış uygulamasını içermektedir.
 
