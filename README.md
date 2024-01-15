@@ -4,11 +4,11 @@ Bu uygulama, güzergahları ve sefer bilgilerini içeren bir otobüs bilet satı
 
 ### Next.js Kullanımı
 
-Projede, Next.js'in 14.0.4 versionu kullanılmıştır. 
+Projede, Next.js'in 14.0.4 versionu kullanılmıştır. npm 9.8.1 versiyonu kullanılmıştır.
 
 ### Tailwind CSS
 
-Kullanıcı arayüzü, hızlı ve esnek tasarım için Tailwind CSS kullanılarak geliştirilmiştir. 
+Kullanıcı arayüzü, hızlı ve esnek tasarım için Tailwind CSS 3.4.1 kullanılarak geliştirilmiştir. 
 ## Geliştirme Ortamını Kurma
 
 Proje bağımlılıklarını yüklemek için aşağıdaki adımları takip edin:
@@ -38,7 +38,7 @@ Uygulamaya kayıt olmak için  "Register" sayfasını kullanabilirsiniz. Kayıt 
 
 ## Redux Kullanımı
 
-Uygulama, Redux kullanarak global durumu yönetmektedir. Redux bağlantısı ve kullanımı için `lib/redux` klasörüne bakabilirsiniz. Kullanıcı bilgileri, sefer bilgileri gibi durumlar bu yapı üzerinde yönetilmektedir.
+Uygulama, Redux- Toolkit 2.0.1 kullanarak global durumu yönetmektedir. Redux bağlantısı ve kullanımı için `lib/redux` klasörüne bakabilirsiniz. Kullanıcı bilgileri, sefer bilgileri gibi durumlar bu yapı üzerinde yönetilmektedir.
 
 
 ---
