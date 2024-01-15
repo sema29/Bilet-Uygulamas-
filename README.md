@@ -32,7 +32,7 @@ Uygulamaya kayıt olmak için sağ üst köşede bulunan "Register" sayfasını 
 
 ## Redux Kullanımı
 
-Uygulama, Redux kullanarak global durumu yönetmektedir. Redux bağlantısı ve kullanımı için `src/lib/redux` klasörüne bakabilirsiniz. Kullanıcı bilgileri, sefer bilgileri gibi durumlar bu yapı üzerinde yönetilmektedir.
+Uygulama, Redux kullanarak global durumu yönetmektedir. Redux bağlantısı ve kullanımı için `lib/redux` klasörüne bakabilirsiniz. Kullanıcı bilgileri, sefer bilgileri gibi durumlar bu yapı üzerinde yönetilmektedir.
 
 ## Sefer Bilgileri
 
