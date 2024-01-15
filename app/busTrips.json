@@ -1,0 +1,1766 @@
+[
+  {
+    "id": 1,
+    "departure": "Ankara",
+    "arrival": "Istanbul",
+    "date": "2024-01-20",
+    "availableSeats": 10,
+    "price": 50,
+    "seatList": [
+  {
+    "id": 1,
+    "status": "male"
+  },
+  {
+    "id": 2,
+    "status": "available"
+  },
+  {
+    "id": 3,
+    "status": "available"
+  },
+  {
+    "id": 4,
+    "status": "male"
+  },
+  {
+    "id": 5,
+    "status": "available"
+  },
+  {
+    "id": 6,
+    "status": "available"
+  },
+  {
+    "id": 7,
+    "status": "available"
+  },
+  {
+    "id": 8,
+    "status": "male"
+  },
+  {
+    "id": 9,
+    "status": "available"
+  },
+  {
+    "id": 10,
+    "status": "available"
+  },
+  {
+    "id": 11,
+    "status": "available"
+  },
+  {
+    "id": 12,
+    "status": "male"
+  },
+  {
+    "id": 13,
+    "status": "available"
+  },
+  {
+    "id": 14,
+    "status": "male"
+  },
+  {
+    "id": 15,
+    "status": "available"
+  },
+  {
+    "id": 16,
+    "status": "male"
+  },
+  {
+    "id": 17,
+    "status": "available"
+  },
+  {
+    "id": 18,
+    "status": "available"
+  },
+  {
+    "id": 19,
+    "status": "available"
+  },
+  {
+    "id": 20,
+    "status": "male"
+  },
+  {
+    "id": 21,
+    "status": "available"
+  },
+  {
+    "id": 22,
+    "status": "male"
+  },
+  {
+    "id": 23,
+    "status": "available"
+  },
+  {
+    "id": 24,
+    "status": "available"
+  },
+  {
+    "id": 25,
+    "status": "male"
+  },
+  {
+    "id": 26,
+    "status": "available"
+  },
+  {
+    "id": 27,
+    "status": "available"
+  },
+  {
+    "id": 28,
+    "status": "male"
+  },
+  {
+    "id": 29,
+    "status": "available"
+  },
+  {
+    "id": 30,
+    "status": "male"
+  },
+  {
+    "id": 31,
+    "status": "available"
+  },
+  {
+    "id": 32,
+    "status": "available"
+  },
+  {
+    "id": 33,
+    "status": "male"
+  },
+  {
+    "id": 34,
+    "status": "available"
+  }
+]
+
+  },
+  {
+    "id": 16,
+    "departure": "Ankara",
+    "arrival": "Istanbul",
+    "date": "2024-01-22",
+    "price": 60,
+    "seatList": [
+  {
+    "id": 1,
+    "status": "male"
+  },
+  {
+    "id": 2,
+    "status": "available"
+  },
+  {
+    "id": 3,
+    "status": "available"
+  },
+  {
+    "id": 4,
+    "status": "male"
+  },
+  {
+    "id": 5,
+    "status": "available"
+  },
+  {
+    "id": 6,
+    "status": "available"
+  },
+  {
+    "id": 7,
+    "status": "available"
+  },
+  {
+    "id": 8,
+    "status": "male"
+  },
+  {
+    "id": 9,
+    "status": "available"
+  },
+  {
+    "id": 10,
+    "status": "available"
+  },
+  {
+    "id": 11,
+    "status": "available"
+  },
+  {
+    "id": 12,
+    "status": "male"
+  },
+  {
+    "id": 13,
+    "status": "available"
+  },
+  {
+    "id": 14,
+    "status": "male"
+  },
+  {
+    "id": 15,
+    "status": "available"
+  },
+  {
+    "id": 16,
+    "status": "male"
+  },
+  {
+    "id": 17,
+    "status": "available"
+  },
+  {
+    "id": 18,
+    "status": "available"
+  },
+  {
+    "id": 19,
+    "status": "available"
+  },
+  {
+    "id": 20,
+    "status": "male"
+  },
+  {
+    "id": 21,
+    "status": "available"
+  },
+  {
+    "id": 22,
+    "status": "male"
+  },
+  {
+    "id": 23,
+    "status": "available"
+  },
+  {
+    "id": 24,
+    "status": "available"
+  },
+  {
+    "id": 25,
+    "status": "male"
+  },
+  {
+    "id": 26,
+    "status": "available"
+  },
+  {
+    "id": 27,
+    "status": "available"
+  },
+  {
+    "id": 28,
+    "status": "male"
+  },
+  {
+    "id": 29,
+    "status": "available"
+  },
+  {
+    "id": 30,
+    "status": "male"
+  },
+  {
+    "id": 31,
+    "status": "available"
+  },
+  {
+    "id": 32,
+    "status": "available"
+  },
+  {
+    "id": 33,
+    "status": "male"
+  },
+  {
+    "id": 34,
+    "status": "available"
+  }
+]
+
+    
+  },
+  {
+    "id": 11,
+    "departure": "Ankara",
+    "arrival": "Istanbul",
+    "date": "2024-01-20",
+    "availableSeats": 20,
+    "price": 80,
+    "seatList": [
+  {
+    "id": 1,
+    "status": "male"
+  },
+  {
+    "id": 2,
+    "status": "available"
+  },
+  {
+    "id": 3,
+    "status": "available"
+  },
+  {
+    "id": 4,
+    "status": "male"
+  },
+  {
+    "id": 5,
+    "status": "available"
+  },
+  {
+    "id": 6,
+    "status": "available"
+  },
+  {
+    "id": 7,
+    "status": "available"
+  },
+  {
+    "id": 8,
+    "status": "male"
+  },
+  {
+    "id": 9,
+    "status": "available"
+  },
+  {
+    "id": 10,
+    "status": "available"
+  },
+  {
+    "id": 11,
+    "status": "available"
+  },
+  {
+    "id": 12,
+    "status": "male"
+  },
+  {
+    "id": 13,
+    "status": "available"
+  },
+  {
+    "id": 14,
+    "status": "male"
+  },
+  {
+    "id": 15,
+    "status": "available"
+  },
+  {
+    "id": 16,
+    "status": "male"
+  },
+  {
+    "id": 17,
+    "status": "available"
+  },
+  {
+    "id": 18,
+    "status": "available"
+  },
+  {
+    "id": 19,
+    "status": "available"
+  },
+  {
+    "id": 20,
+    "status": "male"
+  },
+  {
+    "id": 21,
+    "status": "available"
+  },
+  {
+    "id": 22,
+    "status": "male"
+  },
+  {
+    "id": 23,
+    "status": "available"
+  },
+  {
+    "id": 24,
+    "status": "available"
+  },
+  {
+    "id": 25,
+    "status": "male"
+  },
+  {
+    "id": 26,
+    "status": "available"
+  },
+  {
+    "id": 27,
+    "status": "available"
+  },
+  {
+    "id": 28,
+    "status": "male"
+  },
+  {
+    "id": 29,
+    "status": "available"
+  },
+  {
+    "id": 30,
+    "status": "male"
+  },
+  {
+    "id": 31,
+    "status": "available"
+  },
+  {
+    "id": 32,
+    "status": "available"
+  },
+  {
+    "id": 33,
+    "status": "male"
+  },
+  {
+    "id": 34,
+    "status": "available"
+  }
+]
+
+  },
+  {
+    "id": 2,
+    "departure": "Istanbul",
+    "arrival": "Ankara",
+    "date": "2024-01-21",
+    "availableSeats": 8,
+    "price": 55,
+    "seatList": [
+  {
+    "id": 1,
+    "status": "male"
+  },
+  {
+    "id": 2,
+    "status": "available"
+  },
+  {
+    "id": 3,
+    "status": "available"
+  },
+  {
+    "id": 4,
+    "status": "male"
+  },
+  {
+    "id": 5,
+    "status": "available"
+  },
+  {
+    "id": 6,
+    "status": "available"
+  },
+  {
+    "id": 7,
+    "status": "available"
+  },
+  {
+    "id": 8,
+    "status": "male"
+  },
+  {
+    "id": 9,
+    "status": "available"
+  },
+  {
+    "id": 10,
+    "status": "available"
+  },
+  {
+    "id": 11,
+    "status": "available"
+  },
+  {
+    "id": 12,
+    "status": "male"
+  },
+  {
+    "id": 13,
+    "status": "available"
+  },
+  {
+    "id": 14,
+    "status": "male"
+  },
+  {
+    "id": 15,
+    "status": "available"
+  },
+  {
+    "id": 16,
+    "status": "male"
+  },
+  {
+    "id": 17,
+    "status": "available"
+  },
+  {
+    "id": 18,
+    "status": "available"
+  },
+  {
+    "id": 19,
+    "status": "available"
+  },
+  {
+    "id": 20,
+    "status": "male"
+  },
+  {
+    "id": 21,
+    "status": "available"
+  },
+  {
+    "id": 22,
+    "status": "male"
+  },
+  {
+    "id": 23,
+    "status": "available"
+  },
+  {
+    "id": 24,
+    "status": "available"
+  },
+  {
+    "id": 25,
+    "status": "male"
+  },
+  {
+    "id": 26,
+    "status": "available"
+  },
+  {
+    "id": 27,
+    "status": "available"
+  },
+  {
+    "id": 28,
+    "status": "male"
+  },
+  {
+    "id": 29,
+    "status": "available"
+  },
+  {
+    "id": 30,
+    "status": "male"
+  },
+  {
+    "id": 31,
+    "status": "available"
+  },
+  {
+    "id": 32,
+    "status": "available"
+  },
+  {
+    "id": 33,
+    "status": "male"
+  },
+  {
+    "id": 34,
+    "status": "available"
+  }
+]
+
+  },
+  {
+    "id": 3,
+    "departure": "Izmir",
+    "arrival": "Antalya",
+    "date": "2024-02-20",
+    "availableSeats": 15,
+    "price": 45,
+    "seatList": [
+  {
+    "id": 1,
+    "status": "male"
+  },
+  {
+    "id": 2,
+    "status": "available"
+  },
+  {
+    "id": 3,
+    "status": "available"
+  },
+  {
+    "id": 4,
+    "status": "male"
+  },
+  {
+    "id": 5,
+    "status": "available"
+  },
+  {
+    "id": 6,
+    "status": "available"
+  },
+  {
+    "id": 7,
+    "status": "available"
+  },
+  {
+    "id": 8,
+    "status": "male"
+  },
+  {
+    "id": 9,
+    "status": "available"
+  },
+  {
+    "id": 10,
+    "status": "available"
+  },
+  {
+    "id": 11,
+    "status": "available"
+  },
+  {
+    "id": 12,
+    "status": "male"
+  },
+  {
+    "id": 13,
+    "status": "available"
+  },
+  {
+    "id": 14,
+    "status": "male"
+  },
+  {
+    "id": 15,
+    "status": "available"
+  },
+  {
+    "id": 16,
+    "status": "male"
+  },
+  {
+    "id": 17,
+    "status": "available"
+  },
+  {
+    "id": 18,
+    "status": "available"
+  },
+  {
+    "id": 19,
+    "status": "available"
+  },
+  {
+    "id": 20,
+    "status": "male"
+  },
+  {
+    "id": 21,
+    "status": "available"
+  },
+  {
+    "id": 22,
+    "status": "male"
+  },
+  {
+    "id": 23,
+    "status": "available"
+  },
+  {
+    "id": 24,
+    "status": "available"
+  },
+  {
+    "id": 25,
+    "status": "male"
+  },
+  {
+    "id": 26,
+    "status": "available"
+  },
+  {
+    "id": 27,
+    "status": "available"
+  },
+  {
+    "id": 28,
+    "status": "male"
+  },
+  {
+    "id": 29,
+    "status": "available"
+  },
+  {
+    "id": 30,
+    "status": "male"
+  },
+  {
+    "id": 31,
+    "status": "available"
+  },
+  {
+    "id": 32,
+    "status": "available"
+  },
+  {
+    "id": 33,
+    "status": "male"
+  },
+  {
+    "id": 34,
+    "status": "available"
+  }
+]
+
+  },
+  {
+    "id": 4,
+    "departure": "Antalya",
+    "arrival": "Izmir",
+    "date": "2024-01-23",
+    "availableSeats": 12,
+    "price": 60,
+    "seatList": [
+  {
+    "id": 1,
+    "status": "male"
+  },
+  {
+    "id": 2,
+    "status": "available"
+  },
+  {
+    "id": 3,
+    "status": "available"
+  },
+  {
+    "id": 4,
+    "status": "male"
+  },
+  {
+    "id": 5,
+    "status": "available"
+  },
+  {
+    "id": 6,
+    "status": "available"
+  },
+  {
+    "id": 7,
+    "status": "available"
+  },
+  {
+    "id": 8,
+    "status": "male"
+  },
+  {
+    "id": 9,
+    "status": "available"
+  },
+  {
+    "id": 10,
+    "status": "available"
+  },
+  {
+    "id": 11,
+    "status": "available"
+  },
+  {
+    "id": 12,
+    "status": "male"
+  },
+  {
+    "id": 13,
+    "status": "available"
+  },
+  {
+    "id": 14,
+    "status": "male"
+  },
+  {
+    "id": 15,
+    "status": "available"
+  },
+  {
+    "id": 16,
+    "status": "male"
+  },
+  {
+    "id": 17,
+    "status": "available"
+  },
+  {
+    "id": 18,
+    "status": "available"
+  },
+  {
+    "id": 19,
+    "status": "available"
+  },
+  {
+    "id": 20,
+    "status": "male"
+  },
+  {
+    "id": 21,
+    "status": "available"
+  },
+  {
+    "id": 22,
+    "status": "male"
+  },
+  {
+    "id": 23,
+    "status": "available"
+  },
+  {
+    "id": 24,
+    "status": "available"
+  },
+  {
+    "id": 25,
+    "status": "male"
+  },
+  {
+    "id": 26,
+    "status": "available"
+  },
+  {
+    "id": 27,
+    "status": "available"
+  },
+  {
+    "id": 28,
+    "status": "male"
+  },
+  {
+    "id": 29,
+    "status": "available"
+  },
+  {
+    "id": 30,
+    "status": "male"
+  },
+  {
+    "id": 31,
+    "status": "available"
+  },
+  {
+    "id": 32,
+    "status": "available"
+  },
+  {
+    "id": 33,
+    "status": "male"
+  },
+  {
+    "id": 34,
+    "status": "available"
+  }
+]
+
+  },
+  {
+    "id": 5,
+    "departure": "Bolu",
+    "arrival": "Izmir",
+    "date": "2024-02-24",
+    "availableSeats": 20,
+    "price": 40,
+    "seatList": [
+  {
+    "id": 1,
+    "status": "male"
+  },
+  {
+    "id": 2,
+    "status": "available"
+  },
+  {
+    "id": 3,
+    "status": "available"
+  },
+  {
+    "id": 4,
+    "status": "male"
+  },
+  {
+    "id": 5,
+    "status": "available"
+  },
+  {
+    "id": 6,
+    "status": "available"
+  },
+  {
+    "id": 7,
+    "status": "available"
+  },
+  {
+    "id": 8,
+    "status": "male"
+  },
+  {
+    "id": 9,
+    "status": "available"
+  },
+  {
+    "id": 10,
+    "status": "available"
+  },
+  {
+    "id": 11,
+    "status": "available"
+  },
+  {
+    "id": 12,
+    "status": "male"
+  },
+  {
+    "id": 13,
+    "status": "available"
+  },
+  {
+    "id": 14,
+    "status": "male"
+  },
+  {
+    "id": 15,
+    "status": "available"
+  },
+  {
+    "id": 16,
+    "status": "male"
+  },
+  {
+    "id": 17,
+    "status": "available"
+  },
+  {
+    "id": 18,
+    "status": "available"
+  },
+  {
+    "id": 19,
+    "status": "available"
+  },
+  {
+    "id": 20,
+    "status": "male"
+  },
+  {
+    "id": 21,
+    "status": "available"
+  },
+  {
+    "id": 22,
+    "status": "male"
+  },
+  {
+    "id": 23,
+    "status": "available"
+  },
+  {
+    "id": 24,
+    "status": "available"
+  },
+  {
+    "id": 25,
+    "status": "male"
+  },
+  {
+    "id": 26,
+    "status": "available"
+  },
+  {
+    "id": 27,
+    "status": "available"
+  },
+  {
+    "id": 28,
+    "status": "male"
+  },
+  {
+    "id": 29,
+    "status": "available"
+  },
+  {
+    "id": 30,
+    "status": "male"
+  },
+  {
+    "id": 31,
+    "status": "available"
+  },
+  {
+    "id": 32,
+    "status": "available"
+  },
+  {
+    "id": 33,
+    "status": "male"
+  },
+  {
+    "id": 34,
+    "status": "available"
+  }
+]
+
+  },
+  {
+    "id": 6,
+    "departure": "Antalya",
+    "arrival": "Bolu",
+    "date": "2024-01-25",
+    "availableSeats": 18,
+    "price": 42,
+    "seatList": [
+  {
+    "id": 1,
+    "status": "male"
+  },
+  {
+    "id": 2,
+    "status": "available"
+  },
+  {
+    "id": 3,
+    "status": "available"
+  },
+  {
+    "id": 4,
+    "status": "male"
+  },
+  {
+    "id": 5,
+    "status": "available"
+  },
+  {
+    "id": 6,
+    "status": "available"
+  },
+  {
+    "id": 7,
+    "status": "available"
+  },
+  {
+    "id": 8,
+    "status": "male"
+  },
+  {
+    "id": 9,
+    "status": "available"
+  },
+  {
+    "id": 10,
+    "status": "available"
+  },
+  {
+    "id": 11,
+    "status": "available"
+  },
+  {
+    "id": 12,
+    "status": "male"
+  },
+  {
+    "id": 13,
+    "status": "available"
+  },
+  {
+    "id": 14,
+    "status": "male"
+  },
+  {
+    "id": 15,
+    "status": "available"
+  },
+  {
+    "id": 16,
+    "status": "male"
+  },
+  {
+    "id": 17,
+    "status": "available"
+  },
+  {
+    "id": 18,
+    "status": "available"
+  },
+  {
+    "id": 19,
+    "status": "available"
+  },
+  {
+    "id": 20,
+    "status": "male"
+  },
+  {
+    "id": 21,
+    "status": "available"
+  },
+  {
+    "id": 22,
+    "status": "male"
+  },
+  {
+    "id": 23,
+    "status": "available"
+  },
+  {
+    "id": 24,
+    "status": "available"
+  },
+  {
+    "id": 25,
+    "status": "male"
+  },
+  {
+    "id": 26,
+    "status": "available"
+  },
+  {
+    "id": 27,
+    "status": "available"
+  },
+  {
+    "id": 28,
+    "status": "male"
+  },
+  {
+    "id": 29,
+    "status": "available"
+  },
+  {
+    "id": 30,
+    "status": "male"
+  },
+  {
+    "id": 31,
+    "status": "available"
+  },
+  {
+    "id": 32,
+    "status": "available"
+  },
+  {
+    "id": 33,
+    "status": "male"
+  },
+  {
+    "id": 34,
+    "status": "available"
+  }
+]
+
+  },
+  {
+    "id": 7,
+    "departure": "Izmir",
+    "arrival": "Bolu",
+    "date": "2024-01-25",
+    "availableSeats": 18,
+    "price": 42,
+    "seatList": [
+  {
+    "id": 1,
+    "status": "male"
+  },
+  {
+    "id": 2,
+    "status": "available"
+  },
+  {
+    "id": 3,
+    "status": "available"
+  },
+  {
+    "id": 4,
+    "status": "male"
+  },
+  {
+    "id": 5,
+    "status": "available"
+  },
+  {
+    "id": 6,
+    "status": "available"
+  },
+  {
+    "id": 7,
+    "status": "available"
+  },
+  {
+    "id": 8,
+    "status": "male"
+  },
+  {
+    "id": 9,
+    "status": "available"
+  },
+  {
+    "id": 10,
+    "status": "available"
+  },
+  {
+    "id": 11,
+    "status": "available"
+  },
+  {
+    "id": 12,
+    "status": "male"
+  },
+  {
+    "id": 13,
+    "status": "available"
+  },
+  {
+    "id": 14,
+    "status": "male"
+  },
+  {
+    "id": 15,
+    "status": "available"
+  },
+  {
+    "id": 16,
+    "status": "male"
+  },
+  {
+    "id": 17,
+    "status": "available"
+  },
+  {
+    "id": 18,
+    "status": "available"
+  },
+  {
+    "id": 19,
+    "status": "available"
+  },
+  {
+    "id": 20,
+    "status": "male"
+  },
+  {
+    "id": 21,
+    "status": "available"
+  },
+  {
+    "id": 22,
+    "status": "male"
+  },
+  {
+    "id": 23,
+    "status": "available"
+  },
+  {
+    "id": 24,
+    "status": "available"
+  },
+  {
+    "id": 25,
+    "status": "male"
+  },
+  {
+    "id": 26,
+    "status": "available"
+  },
+  {
+    "id": 27,
+    "status": "available"
+  },
+  {
+    "id": 28,
+    "status": "male"
+  },
+  {
+    "id": 29,
+    "status": "available"
+  },
+  {
+    "id": 30,
+    "status": "male"
+  },
+  {
+    "id": 31,
+    "status": "available"
+  },
+  {
+    "id": 32,
+    "status": "available"
+  },
+  {
+    "id": 33,
+    "status": "male"
+  },
+  {
+    "id": 34,
+    "status": "available"
+  }
+]
+
+  },
+  {
+    "id": 8,
+    "departure": "Ordu",
+    "arrival": "Antalya",
+    "date": "2024-01-25",
+    "availableSeats": 18,
+    "price": 42,
+    "seatList": [
+  {
+    "id": 1,
+    "status": "male"
+  },
+  {
+    "id": 2,
+    "status": "available"
+  },
+  {
+    "id": 3,
+    "status": "available"
+  },
+  {
+    "id": 4,
+    "status": "male"
+  },
+  {
+    "id": 5,
+    "status": "available"
+  },
+  {
+    "id": 6,
+    "status": "available"
+  },
+  {
+    "id": 7,
+    "status": "available"
+  },
+  {
+    "id": 8,
+    "status": "male"
+  },
+  {
+    "id": 9,
+    "status": "available"
+  },
+  {
+    "id": 10,
+    "status": "available"
+  },
+  {
+    "id": 11,
+    "status": "available"
+  },
+  {
+    "id": 12,
+    "status": "male"
+  },
+  {
+    "id": 13,
+    "status": "available"
+  },
+  {
+    "id": 14,
+    "status": "male"
+  },
+  {
+    "id": 15,
+    "status": "available"
+  },
+  {
+    "id": 16,
+    "status": "male"
+  },
+  {
+    "id": 17,
+    "status": "available"
+  },
+  {
+    "id": 18,
+    "status": "available"
+  },
+  {
+    "id": 19,
+    "status": "available"
+  },
+  {
+    "id": 20,
+    "status": "male"
+  },
+  {
+    "id": 21,
+    "status": "available"
+  },
+  {
+    "id": 22,
+    "status": "male"
+  },
+  {
+    "id": 23,
+    "status": "available"
+  },
+  {
+    "id": 24,
+    "status": "available"
+  },
+  {
+    "id": 25,
+    "status": "male"
+  },
+  {
+    "id": 26,
+    "status": "available"
+  },
+  {
+    "id": 27,
+    "status": "available"
+  },
+  {
+    "id": 28,
+    "status": "male"
+  },
+  {
+    "id": 29,
+    "status": "available"
+  },
+  {
+    "id": 30,
+    "status": "male"
+  },
+  {
+    "id": 31,
+    "status": "available"
+  },
+  {
+    "id": 32,
+    "status": "available"
+  },
+  {
+    "id": 33,
+    "status": "male"
+  },
+  {
+    "id": 34,
+    "status": "available"
+  }
+]
+
+  },
+  {
+    "id": 9,
+    "departure": "Istanbul",
+    "arrival": "Izmir",
+    "date": "2024-01-25",
+    "availableSeats": 18,
+    "price": 42,
+    "seatList": [
+  {
+    "id": 1,
+    "status": "male"
+  },
+  {
+    "id": 2,
+    "status": "available"
+  },
+  {
+    "id": 3,
+    "status": "available"
+  },
+  {
+    "id": 4,
+    "status": "male"
+  },
+  {
+    "id": 5,
+    "status": "available"
+  },
+  {
+    "id": 6,
+    "status": "available"
+  },
+  {
+    "id": 7,
+    "status": "available"
+  },
+  {
+    "id": 8,
+    "status": "male"
+  },
+  {
+    "id": 9,
+    "status": "available"
+  },
+  {
+    "id": 10,
+    "status": "available"
+  },
+  {
+    "id": 11,
+    "status": "available"
+  },
+  {
+    "id": 12,
+    "status": "male"
+  },
+  {
+    "id": 13,
+    "status": "available"
+  },
+  {
+    "id": 14,
+    "status": "male"
+  },
+  {
+    "id": 15,
+    "status": "available"
+  },
+  {
+    "id": 16,
+    "status": "male"
+  },
+  {
+    "id": 17,
+    "status": "available"
+  },
+  {
+    "id": 18,
+    "status": "available"
+  },
+  {
+    "id": 19,
+    "status": "available"
+  },
+  {
+    "id": 20,
+    "status": "male"
+  },
+  {
+    "id": 21,
+    "status": "available"
+  },
+  {
+    "id": 22,
+    "status": "male"
+  },
+  {
+    "id": 23,
+    "status": "available"
+  },
+  {
+    "id": 24,
+    "status": "available"
+  },
+  {
+    "id": 25,
+    "status": "male"
+  },
+  {
+    "id": 26,
+    "status": "available"
+  },
+  {
+    "id": 27,
+    "status": "available"
+  },
+  {
+    "id": 28,
+    "status": "male"
+  },
+  {
+    "id": 29,
+    "status": "available"
+  },
+  {
+    "id": 30,
+    "status": "male"
+  },
+  {
+    "id": 31,
+    "status": "available"
+  },
+  {
+    "id": 32,
+    "status": "available"
+  },
+  {
+    "id": 33,
+    "status": "male"
+  },
+  {
+    "id": 34,
+    "status": "available"
+  }
+]
+
+  },
+  {
+    "id": 10,
+    "departure": "Istanbul",
+    "arrival": "Ordu",
+    "date": "2024-01-25",
+    "availableSeats": 18,
+    "price": 42,
+    "seatList": [
+  {
+    "id": 1,
+    "status": "male"
+  },
+  {
+    "id": 2,
+    "status": "available"
+  },
+  {
+    "id": 3,
+    "status": "available"
+  },
+  {
+    "id": 4,
+    "status": "male"
+  },
+  {
+    "id": 5,
+    "status": "available"
+  },
+  {
+    "id": 6,
+    "status": "available"
+  },
+  {
+    "id": 7,
+    "status": "available"
+  },
+  {
+    "id": 8,
+    "status": "male"
+  },
+  {
+    "id": 9,
+    "status": "available"
+  },
+  {
+    "id": 10,
+    "status": "available"
+  },
+  {
+    "id": 11,
+    "status": "available"
+  },
+  {
+    "id": 12,
+    "status": "male"
+  },
+  {
+    "id": 13,
+    "status": "available"
+  },
+  {
+    "id": 14,
+    "status": "male"
+  },
+  {
+    "id": 15,
+    "status": "available"
+  },
+  {
+    "id": 16,
+    "status": "male"
+  },
+  {
+    "id": 17,
+    "status": "available"
+  },
+  {
+    "id": 18,
+    "status": "available"
+  },
+  {
+    "id": 19,
+    "status": "available"
+  },
+  {
+    "id": 20,
+    "status": "male"
+  },
+  {
+    "id": 21,
+    "status": "available"
+  },
+  {
+    "id": 22,
+    "status": "male"
+  },
+  {
+    "id": 23,
+    "status": "available"
+  },
+  {
+    "id": 24,
+    "status": "available"
+  },
+  {
+    "id": 25,
+    "status": "male"
+  },
+  {
+    "id": 26,
+    "status": "available"
+  },
+  {
+    "id": 27,
+    "status": "available"
+  },
+  {
+    "id": 28,
+    "status": "male"
+  },
+  {
+    "id": 29,
+    "status": "available"
+  },
+  {
+    "id": 30,
+    "status": "male"
+  },
+  {
+    "id": 31,
+    "status": "available"
+  },
+  {
+    "id": 32,
+    "status": "available"
+  },
+  {
+    "id": 33,
+    "status": "male"
+  },
+  {
+    "id": 34,
+    "status": "available"
+  }
+]
+
+  }
+]
